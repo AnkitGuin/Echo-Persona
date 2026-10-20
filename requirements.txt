@@ -1,0 +1,6 @@
+# Lightweight demo/local-domain requirements. Versions constrained for reproducibility.
+streamlit==1.51.0
+numpy>=1.26,<3.0
+soundfile>=0.12.1,<0.14
+scipy>=1.12,<2.0
+python-dotenv>=1.0,<2

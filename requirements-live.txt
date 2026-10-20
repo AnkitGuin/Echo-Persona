@@ -1,0 +1,3 @@
+# OPTIONAL, substantial PyTorch/model dependencies; recommended Python 3.11.
+# Install after requirements.txt in a clean dedicated environment.
+chatterbox-tts==0.1.7
